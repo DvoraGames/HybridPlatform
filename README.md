@@ -1,5 +1,5 @@
 # A Hybrid 2D & 3D Platform Game
 
-Developed with Unreal Engine 5 (Blueprints) + PaperZD
+Developed with Unreal Engine 5 (Blueprints and BP Interface) + PaperZD
 
-This game has the base as Cobra Code course with some changes
+The game's foundation is based on the Cobra Code course, with some modifications.
