@@ -1,5 +1,7 @@
-# A Hybrid 2D & 3D Platform Game
+# A Hybrid (2D & 3D) Platform Game
 
-Developed with Unreal Engine 5 (Blueprints and BP Interface) + PaperZD
+Developed with Unreal Engine 5.6 using: C++, Blueprints, BP Interfaces, AIPerception and PaperZD.
 
-The game's foundation is based on the Cobra Code course, with some modifications.
+This game is based on the Cobra Code course with modifications.
+
+This project is for improve my skills with Unreal Engine and to increase my portfolio.
